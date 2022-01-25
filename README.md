@@ -82,11 +82,7 @@ Le dépôt Git de ce cours doit servir de modèle de structuration de données e
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zkw-Alban/Prononciation/HEAD)
 
-[Launch Voilà](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.huma-num.fr%2Fmnauge%2Fcnam-athon-pronunciation/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fprenom_nom_App.ipynb)
-
-https://mybinder.org/v2/gh/Zkw-Alban/Prononciation/HEAD?labpath=%3Furlpath%3Dvoila%2Frender%2Fnotebook%2Fzurkowski_alban_App.ipynb
-
-https://mybinder.org/v2/gh/Zkw-Alban/Prononciation/HEAD?labpath=%3Furlpath%3Dvoila%2Frender%2Fcnam-athon-pronunciation-main%2Fnotebook%2Fzurkowski_alban_App.ipynb
+[Launch Voilà](https://mybinder.org/v2/gh/Zkw-Alban/Prononciation/HEAD?labpath=voila%2Frender%2Fcnam-athon-pronunciation-main%2Fnotebook%2Fzurkowski_alban_App.ipynb)
 
 Lien du repo GitHub du projet : https://github.com/Zkw-Alban/Prononciation
 
