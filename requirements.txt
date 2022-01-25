@@ -9,4 +9,3 @@ ipympl==0.5.8
 ipywidgets==7.5.1
 IPython==7.19.0
 requests_html==0.10.0
-re==2.2.1
