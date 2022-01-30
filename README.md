@@ -79,6 +79,11 @@ Les projets réalisés doivent être déposées sous forme de dépôt GitHub. Le
 
 Le dépôt Git de ce cours doit servir de modèle de structuration de données et codes. Le readme.md devra contenir un lien pour le lancement de l'application via myBinder (en mode notebook et en mode voilà).
 
+---------------------------
+
+A noter que Librosa n'a pas l'air de fonctionner avec binder et Voilà. J'ai donc commenter ces parties du code pour que tout fonctionne.
+Les images Librosa1 et Librosa2 sont des capture décran de comment est censé s'afficher Librosa.
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zkw-Alban/Prononciation/HEAD)
 
